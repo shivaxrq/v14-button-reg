@@ -1,2 +1,5 @@
-# v14-bos-altyapi
-discord.js@V14 boş altyapıdır iyi kodlamalar :)
+# v14-button-reg
+- GENÇLER TAMAMEN GÜZEL VE ÖZENLE YAPILMIŞ BİTANE BOTDUR HİÇ YOKTU 
+PRİV SUNUCULARINIZ İÇİN ÇOK İYİ BİR BOT OLDU 
+
+- EĞER Kİ BU TUTARSA V14 REGİSTER BOTU YAPICAĞIMA SÖZ VERİYORUM AMA EFSANE OLUCAK GÖRÜŞÜRÜZ
